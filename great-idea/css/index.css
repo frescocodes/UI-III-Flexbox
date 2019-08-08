@@ -322,6 +322,11 @@ ul {
 }
 
 
+
+
+
+
+
 /* MOBILE DEVICES */
 
 @media (max-width: 1300px) {
@@ -375,8 +380,6 @@ ul {
 		text-align: center;
 		margin-top: 5%;
 	}
-
-
 	.facts {
 		flex-direction: column;
 	}
@@ -385,3 +388,5 @@ ul {
 		width: 80%;
 	}
 }
+
+/* plz work */
